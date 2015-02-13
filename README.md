@@ -1,3 +1,10 @@
 Maven Version in Title Bar
 
-plugin for IntelliJ platform products :)
+This is a plugin for the IntelliJ platform (IntelliJ IDEA, etc).
+
+Hope you enjoy it!
+
+
+See also my other plugins in the Jetbrains Plugin Repository:
+
+https://plugins.jetbrains.com/space/showMe?lg=vikingsteve
