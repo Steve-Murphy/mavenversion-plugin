@@ -7,4 +7,4 @@ Hope you enjoy it!
 
 See also my other plugins in the Jetbrains Plugin Repository:
 
-https://plugins.jetbrains.com/space/showMe?lg=vikingsteve
+https://plugins.jetbrains.com/space/index?lg=vikingsteve
