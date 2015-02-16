@@ -1,6 +1,10 @@
 ## Maven Version in Title Bar
 
-This is a plugin for the IntelliJ platform (IntelliJ IDEA, etc).
+This is free a plugin for the IntelliJ platform (IntelliJ IDEA, etc).
+
+**Download link:**
+
+https://plugins.jetbrains.com/plugin/7483
 
 Hope you enjoy it!
 
