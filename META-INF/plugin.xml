@@ -2,7 +2,7 @@
   <id>com.steve.plugins.mavenversion</id>
   <name>Maven Version in Title Bar</name>
   <version>1.1</version>
-  <vendor>Steve Murphy</vendor>
+  <vendor url="http://plugins.jetbrains.com/space/index?lg=vikingsteve">Steve Murphy</vendor>
 
   <description><![CDATA[
       Displays the maven version of your project in the title bar of the main window frame.
@@ -12,7 +12,7 @@
       <br>
       <br>The maven version is obtained from the &lt;version&gt; tag in the pom.xml file at the root of your project.<br>
       <br>
-      <i>If you find this plugin useful, please leave a Star-rating and comment :)</i>
+      <i>If you find this plugin useful, please leave a Star-rating and comment :)</i><br>
       <br>
 
       ]]></description>
