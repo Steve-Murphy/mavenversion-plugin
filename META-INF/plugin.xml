@@ -12,9 +12,6 @@
       <br>
       <br>The maven version is obtained from the &lt;version&gt; tag in the pom.xml file at the root of your project.<br>
       <br>
-      <i>If you find this plugin useful, please leave a Star-rating and comment :)</i><br>
-      <br>
-
       ]]></description>
 
   <change-notes><![CDATA[
